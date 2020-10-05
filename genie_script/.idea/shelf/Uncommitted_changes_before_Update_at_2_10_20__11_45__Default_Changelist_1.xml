@@ -1,0 +1,44 @@
+<changelist name="Uncommitted_changes_before_Update_at_2_10_20,_11_45_[Default_Changelist]1" date="1601603356742" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_20,_11_45_[Default_Changelist]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2/10/20, 11:45 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="../files/attachment/Sue Chris Patients.xls" />
+    <option name="AFTER_PATH" value="../files/attachment/Sue Chris Patients.xls" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_20,_11_45_[Default_Changelist]1/Sue Chris Patients.xls" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Client/GenieUI$2.class" />
+    <option name="AFTER_PATH" value="target/classes/Client/GenieUI$2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_20,_11_45_[Default_Changelist]1/GenieUI$2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Client/GenieUI$1.class" />
+    <option name="AFTER_PATH" value="target/classes/Client/GenieUI$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_20,_11_45_[Default_Changelist]1/GenieUI$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Client/GenieUI.class" />
+    <option name="AFTER_PATH" value="target/classes/Client/GenieUI.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_20,_11_45_[Default_Changelist]1/GenieUI.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Client/GenieUI$4.class" />
+    <option name="AFTER_PATH" value="target/classes/Client/GenieUI$4.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_20,_11_45_[Default_Changelist]1/GenieUI$4.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/Client/GenieUI$3.class" />
+    <option name="AFTER_PATH" value="target/classes/Client/GenieUI$3.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_20,_11_45_[Default_Changelist]1/GenieUI$3.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../backend/tomcat/webapps/medsec.war" />
+    <option name="AFTER_PATH" value="../backend/tomcat/webapps/medsec.war" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_20,_11_45_[Default_Changelist]1/medsec.war" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../files/Resource.xls" />
+    <option name="AFTER_PATH" value="../files/Resource.xls" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_10_20,_11_45_[Default_Changelist]1/Resource.xls" />
+  </binary>
+</changelist>

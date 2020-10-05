@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b734b5f-49ba-4458-a25e-37a305559d63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/sql/db_with_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../api/sql/db_with_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/java/com/medsec/dao/ResourceMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/main/java/com/medsec/dao/ResourceMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/java/com/medsec/entity/Resource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/main/java/com/medsec/entity/Resource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/java/com/medsec/util/ConfigListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/main/java/com/medsec/util/ConfigListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/java/com/medsec/util/DataManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/main/java/com/medsec/util/DataManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/java/com/medsec/util/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/main/java/com/medsec/util/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/java/com/medsec/util/QueryCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/main/java/com/medsec/util/QueryCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/java/com/medsec/util/TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/main/java/com/medsec/util/TCPServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/resources/com/medsec/dao/ResourceMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/main/resources/com/medsec/dao/ResourceMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/db/seed/db_with_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/db/seed/db_with_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec.war" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/META-INF/maven/com.medsec/medsec/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/META-INF/maven/com.medsec/medsec/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/META-INF/maven/com.medsec/medsec/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/META-INF/maven/com.medsec/medsec/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/dao/ResourceMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/dao/ResourceMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/entity/Resource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/entity/Resource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/util/ConfigListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/util/ConfigListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/util/DataManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/util/DataManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/util/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/util/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/util/QueryCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/util/QueryCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/util/TCPServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/util/TCPServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/util/TCPServerProcess.class" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/com/medsec/util/TCPServerProcess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/dbcp_local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/tomcat/webapps/medsec/WEB-INF/classes/dbcp_local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/lib/util/serverDetails.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/lib/util/serverDetails.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/GenieUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Client/GenieUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/JSONWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Client/JSONWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/TCPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Client/TCPClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/GenieUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Client/GenieUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/GenieUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Client/GenieUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/GenieUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Client/GenieUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/GenieUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Client/GenieUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/GenieUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Client/GenieUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/JSONWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Client/JSONWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/TCPClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Client/TCPClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SocketConnection/QueryCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SocketConnection/QueryCommand.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hGgJxZwN93XjQtl0okjppiqFE1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="436" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GenieUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client.GenieUI" />
+      <module name="genie_script" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenieUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b734b5f-49ba-4458-a25e-37a305559d63" name="Default Changelist" comment="" />
+      <created>1599642775033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599642775033</updated>
+      <workItem from="1599642776167" duration="1352000" />
+      <workItem from="1599644228694" duration="1861000" />
+      <workItem from="1601618380113" duration="2992000" />
+      <workItem from="1601625121504" duration="7412000" />
+      <workItem from="1601778918847" duration="36000" />
+      <workItem from="1601778967843" duration="12786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599644147535">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="140" y="349" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1344@0.23.2560.1344" timestamp="1599644147535" />
+    <state width="1591" height="169" key="GridCell.Tab.0.bottom" timestamp="1601821727220">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="1591" height="169" key="GridCell.Tab.0.bottom/0.23.2560.1344@0.23.2560.1344" timestamp="1601821727220" />
+    <state width="1591" height="169" key="GridCell.Tab.0.center" timestamp="1601821727219">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="1591" height="169" key="GridCell.Tab.0.center/0.23.2560.1344@0.23.2560.1344" timestamp="1601821727219" />
+    <state width="1591" height="169" key="GridCell.Tab.0.left" timestamp="1601821727219">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="1591" height="169" key="GridCell.Tab.0.left/0.23.2560.1344@0.23.2560.1344" timestamp="1601821727219" />
+    <state width="1591" height="169" key="GridCell.Tab.0.right" timestamp="1601821727219">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state width="1591" height="169" key="GridCell.Tab.0.right/0.23.2560.1344@0.23.2560.1344" timestamp="1601821727219" />
+    <state x="933" y="401" key="NewModule_or_Project.wizard" timestamp="1601620771498">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="933" y="401" key="NewModule_or_Project.wizard/0.23.2560.1344@0.23.2560.1344" timestamp="1601620771498" />
+    <state x="564" y="449" width="586" height="490" key="find.popup" timestamp="1601862944645">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="564" y="449" width="586" height="490" key="find.popup/0.23.2560.1344@0.23.2560.1344" timestamp="1601862944645" />
+    <state x="522" y="329" width="670" height="676" key="search.everywhere.popup" timestamp="1601643443032">
+      <screen x="0" y="23" width="2560" height="1344" />
+    </state>
+    <state x="522" y="329" width="670" height="676" key="search.everywhere.popup/0.23.2560.1344@0.23.2560.1344" timestamp="1601643443032" />
+  </component>
+</project>
